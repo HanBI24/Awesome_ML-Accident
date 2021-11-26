@@ -1,0 +1,4 @@
+0 GR
+1 crash
+2 AV
+3 SO
