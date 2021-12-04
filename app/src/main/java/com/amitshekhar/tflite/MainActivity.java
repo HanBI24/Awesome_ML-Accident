@@ -35,9 +35,9 @@ import java.util.concurrent.Executors;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String MODEL_PATH = "ad_car_class/ad_model.tflite";
+    private static final String MODEL_PATH = "ad2_car_class/model.tflite";
     private static final boolean QUANT = true;
-    private static final String LABEL_PATH = "ad_car_class/labels.txt";
+    private static final String LABEL_PATH = "ad2_car_class/labels.txt";
     private static final int INPUT_SIZE = 224;
 
     private Classifier classifier;
